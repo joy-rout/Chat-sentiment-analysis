@@ -1,0 +1,59 @@
+,Message,Sentiment_Score,Sentiment
+0,Let’s hang out somewhere this weekend.,0.065956265,positive
+1,"Yeah, good idea!",0.22965774,positive
+2,I’m all in for it.,0.1446631,positive
+3,Me too! I’m really excited.,0.67240816,negative
+4,Where are we going?,0.2731998,positive
+5,Don’t take us to a lame place.,0.8795773,negative
+6,How about we go to the cafe by the station?,0.766893,negative
+7,"No, that cafe is really expensive.",0.9457074,negative
+8,I hate the food there.,0.99640405,negative
+9,We can trust him when it comes to food.,0.95405495,negative
+10,Why don’t you suggest a place then?,0.83583814,negative
+11,"Sure, why not? We could go to the amusement park. I had so much fun the last time I visited.",0.73035353,negative
+12,Now that sounds like fun!,0.38886696,positive
+13,I’m so happy you came up with such a nice idea.,0.78203785,negative
+14,Don’t do this to me guys. You know I’m not good with rides. My head goes dizzy and I throw up.,0.2129409,positive
+15,We totally forgot! Cancel that idea. Let’s discuss a bit more.,0.7440262,negative
+16,"No, don’t cancel it.",0.7662016,negative
+17,I’ll just have to avoid the extreme rides. Don’t give up on the plan just for me. Let’s go there.,0.4776946,positive
+18,Like hell we would. There’s no point in hanging out together if we end up leaving you out for half of the rides.,0.40610415,positive
+19,That’s right.,0.04002887,positive
+20,Truer words were never spoken.,0.9037689,negative
+21,I'm fine with another place too!,0.58520526,negative
+22,You guys.,0.09411147,positive
+23,"Hey, why don’t we let him decide where to go?",0.11974993,positive
+24,"Who, me?",0.0774394,positive
+25,"Yes, please!",0.0023966432,positive
+26,Any place will do as long as we go! Just take me away from home already!,0.70438445,negative
+27,Umm. Hello?,0.078588516,positive
+28,"So, there’s this affordable family restaurant everyone’s talking about lately. They say the food is awesome there and the ambience is to die for. Why don’t we try it out?",0.03982109,positive
+29,Perfect! Let’s go!,0.19049114,positive
+30,Did someone say food?,0.84139895,negative
+31,LOL,0.0016536415,positive
+32,"So, it’s decided then! Let’s enjoy ourselves.",0.100860775,positive
+33,"I checked it out. It’s pretty far from where we live, though.",0.813835,negative
+34,"Okay, so it will be a long drive as well!",0.41304842,positive
+35,"Wait, I didn’t think of it that way.",0.50079477,negative
+36,Alright! I’ll pick everyone up in my car at around 1 pm on Sunday. Got it?,0.3691131,positive
+37,Don’t be late.,0.019375205,positive
+38,Really? You’re a lifesaver!,0.67033565,negative
+39,I’m glad everyone liked the idea.,0.9413905,negative
+40,"Most importantly, don’t forget to bring your wallets! We’re splitting the bill.",0.81429535,negative
+41,Isn’t that obvious?,0.16381785,positive
+42,"It is, but some people just don’t think that way. LOL.",0.6105536,negative
+43,"What did you say, you little brat?!",0.8916129,negative
+44,"No, stop being rude to him.",0.99907804,negative
+45,"I mean, it’s the truth. Just kidding!",0.89383936,negative
+46,"Great, now they’re fighting again.",0.18905395,positive
+47,"You don’t want me to open my mouth now, do you?",0.9903024,negative
+48,I’m so scared.,0.54956526,negative
+49,Just what do you know about him that we don’t? LOL.,0.28561407,positive
+50,You two never cease to amuse me.,0.99100095,negative
+51,Yes! Wholesome vibes all around.,0.11619812,positive
+52,What part of him being a total jerk seems amusing and wholesome to you?,0.98644716,negative
+53,"I just can’t, right now.",0.5820329,negative
+54,"Goodnight, everyone!",0.29853112,positive
+55,"Wait, you guys are sleeping?",0.16145381,positive
+56,"Just shut up and go to bed, you idiot! I won’t pick you up if you’re a second late.",0.83486676,negative
+57,Huh. Why?,0.03769496,positive
